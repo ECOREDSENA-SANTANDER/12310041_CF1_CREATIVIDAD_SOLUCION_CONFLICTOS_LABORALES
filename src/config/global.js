@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Pensamiento creativo y resolución de conflictos laborales',
+    Description:
+      'El componente Pensamiento creativo y resolución de conflictos laborales desarrolla habilidades para analizar, comprender y gestionar conflictos en el entorno organizacional desde una perspectiva creativa. Promueve el pensamiento flexible, la toma de decisiones responsables y la construcción de soluciones alineadas con los objetivos de la organización y las responsabilidades del rol laboral.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,18 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
       },
     ],
   },
