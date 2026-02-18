@@ -96,6 +96,14 @@ figcaption
 .br-top
   border-top-left-radius: 20px 
   border-top-right-radius: 20px 
+.br-left
+  border-top-left-radius: 20px 
+  border-bottom-left-radius: 20px 
+.br-right
+  border-top-right-radius: 20px 
+  border-bottom-right-radius: 20px 
+.bloque-texto-g__texto * 
+  display: block
 
 
 .bg1
@@ -106,8 +114,19 @@ figcaption
   background-color: #FEF6FE !important
 .bg4
   background-color: #FFFDF0 !important
+.bg5
+  background-color: #BDE6E5
+.bg6
+  background-color: #5AC1BD
+.bg7
+  background-color: #244D4C
+.bg8
+  background-color: #F9DAFA
 .bg-img1
   background-image:  url('../assets/curso/temas/t2/bg-cta.png')
+  background-size: cover
+.bg-img2
+  background-image:  url('../assets/curso/temas/t4/bg.png')
   background-size: cover
 .w-75x
   width: 75px
@@ -163,18 +182,69 @@ figcaption
     background-color: #FFFDF0
     &:nth-child(2n)
       background-color: #FCF6C3
-.bloque-texto-g__texto * 
-  display: block
-
+    td 
+      padding: 15px 20px
+  &.t2
+    thead tr 
+      background-color: #F7E869
+    tbody tr
+      text-align: left
+      background-color: #FFFFFF
+      &:nth-child(2n)
+        background-color: #FFFDF0
+      td:first-child
+        background-color: #FCF6C3
+        font-weight: bold
+      td:last-child
+        text-align: left
+  &.t3
+    thead tr 
+      background-color: #F7E869
+    tbody tr
+      text-align: left
+      background-color: #FFFFFF
+      &:nth-child(2n)
+        background-color: #EEF9F8
+      td:first-child
+        background-color: #BDE6E5
+        font-weight: bold
+      td:last-child
+        text-align: left
+.tabla-b.color-primario
+  tr
+    background-color: #EEF9F8
+    &:nth-child(even)
+      background-color: #FFF
+    td:first-child
+      border-right: 1px solid #B0C0D2
+    td:last-child
+      text-align: left
+.acordion
+  &__activo
+    background-color: #FEF6FE
+  &__accion__btn--b
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    color: $white
+.slyder-f__btn i
+  color: $color-acento-botones
 
 .tag-shape 
   clip-path: polygon(0 0, 94% 0, 100% 50%, 94% 100%, 0% 100%, 5% 50%)
+  &_1-1
+    background: #5AC1BD
+  &_1-2
+    background: #F0A3F3  
   &_2-1
     background: #5AC1BD
   &_2-2
     background: #BDE6E5
   &_2-3
     background: #EEF9F8
+.tag-shape2
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 100% 100%, 0% 100%, 5% 50%)
+  &_1-3
+    background: #F7E869
 
 
 
