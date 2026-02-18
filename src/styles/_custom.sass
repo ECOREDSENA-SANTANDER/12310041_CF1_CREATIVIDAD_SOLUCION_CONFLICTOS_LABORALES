@@ -93,6 +93,9 @@ figcaption
   font-style: italic !important
 .sin-borde
   border: 0px !important
+.br-top
+  border-top-left-radius: 20px 
+  border-top-right-radius: 20px 
 
 
 .bg1
@@ -101,6 +104,44 @@ figcaption
   background-color: #BDE6E5
 .bg3
   background-color: #FEF6FE !important
+.bg4
+  background-color: #FFFDF0 !important
+.bg-img1
+  background-image:  url('../assets/curso/temas/t2/bg-cta.png')
+  background-size: cover
+.w-75x
+  width: 75px
+.subt
+  display: flex
+  align-items: flex-end
+  position: relative
+  width: fit-content
+  img 
+    width: 45px
+    z-index: 99
+  h3
+    z-index: 99  
+  &::before
+    content: ''
+    position: absolute
+    width: 100%
+    height: 82%
+    background-color: #F0A3F3
+    border-top-right-radius: 100px
+    border-bottom-right-radius: 100px
+    left: 10px
+    bottom: 0px
+.subt2
+  position: relative
+  width: fit-content
+  &::before
+    content: ''
+    position: absolute
+    width: 100%
+    height: 5px
+    background-color: #F0A3F3
+    border-radius: 500px
+    bottom: -5px
 
 
 .linea-tiempo-d
@@ -115,3 +156,27 @@ figcaption
   &__item--selected
     .linea-tiempo-d__item__content
       background-color: #FEF6FE
+.tabla-a.color-acento-contenido
+  thead tr 
+    background-color: #F7E869
+  tbody tr
+    background-color: #FFFDF0
+    &:nth-child(2n)
+      background-color: #FCF6C3
+.bloque-texto-g__texto * 
+  display: block
+
+
+.tag-shape 
+  clip-path: polygon(0 0, 94% 0, 100% 50%, 94% 100%, 0% 100%, 5% 50%)
+  &_2-1
+    background: #5AC1BD
+  &_2-2
+    background: #BDE6E5
+  &_2-3
+    background: #EEF9F8
+
+
+
+  
+

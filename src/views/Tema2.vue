@@ -7,6 +7,23 @@
         span 2
       h1 Tema 2
 
+
+    Separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+    Separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+    Separador
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+
 </template>
 
 <script>

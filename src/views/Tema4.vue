@@ -8,6 +8,16 @@
       h1 Tema 4
 
 
+
+    Separador
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+    Separador
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
 </template>
 
 <script>
