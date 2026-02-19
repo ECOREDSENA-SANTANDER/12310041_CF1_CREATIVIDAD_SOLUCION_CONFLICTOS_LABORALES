@@ -48,20 +48,19 @@
     .subt2.mb-4(data-aos="fade-right")
       h4.mb-0.px-3 Variables del clima organizacional
 
-    p Dada la relevancia de esta temática para la comprensión de las dinámicas laborales y su impacto en el bienestar y el desempeño de las personas, se ha dispuesto un podcast como recurso complementario de aprendizaje. Este material permite profundizar en los conceptos abordados, favorecer la reflexión y relacionar la temática con situaciones propias del contexto organizacional. Se invita al aprendiz a consultar este recurso como apoyo a su proceso formativo.
+    p.mb-4 Dada la relevancia de esta temática para la comprensión de las dinámicas laborales y su impacto en el bienestar y el desempeño de las personas, se ha dispuesto un podcast como recurso complementario de aprendizaje. Este material permite profundizar en los conceptos abordados, favorecer la reflexión y relacionar la temática con situaciones propias del contexto organizacional. Se invita al aprendiz a consultar este recurso como apoyo a su proceso formativo.
 
-    .tarjeta.color-primario.bg-img1.p-3.py-md-4(data-aos="fade")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/t5/cta2.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h4.mb-0 Podcast: Hablemos de las variables del clima organizacional 
-            .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                span Escuchar
-                i.fas.fa-music
+    .row.justify-content-center(data-aos="fade-down")
+      .col-lg-10
+        img(src='@/assets/curso/temas/t5/podcast.svg', alt='')
+        .bg3.p-4
+          .bg-white.p-3
+            TarjetaAudio.color-primario(
+              texto="Podcast: Hablemos de las variables del clima organizacional"
+              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              @audio-hover="mostrarIndicadorTarjetaAudio = false"
+            )
+              .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
 
     Separador
@@ -99,6 +98,7 @@ export default {
   name: 'Tema5',
   data: () => ({
     // variables de vue
+    mostrarIndicadorTarjetaAudio: true,
   }),
   mounted() {
     this.$nextTick(() => {
