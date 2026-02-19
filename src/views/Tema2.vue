@@ -114,7 +114,7 @@
       .col-lg-5.col-md-9.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/5.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p La forma en que una persona piensa determina la manera en que interpreta las situaciones, enfrenta los problemas y construye posibles soluciones. El pensamiento no actúa de manera aislada: está estrechamente relacionado con las emociones, las creencias y las experiencias previas. Por esta razón, estados emocionales como el miedo, la inseguridad o la falta de confianza pueden restringir la creatividad, mientras que una actitud abierta, flexible y positiva favorece la exploración de ideas y la innovación.
+        p La forma en que una persona piensa determina la manera en que interpreta las situaciones, enfrenta los problemas y construye posibles soluciones. El pensamiento no actúa de manera aislada: está estrechamente relacionado con las emociones, las creencias y las experiencias previas. Por esta razón, estados emocionales como #[b el miedo, la inseguridad o la falta de confianza pueden restringir la creatividad, mientras que una actitud abierta, flexible y positiva favorece la exploración de ideas y la innovación].
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-2.col-md-2.col-3
             img(src='@/assets/curso/temas/t2/6.svg', alt='')

@@ -11,9 +11,9 @@
       .col-lg-5.col-md-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t6/1.png', alt='')
       .col-lg-7(data-aos="fade-left")
-        p Antes de buscar una solución, es indispensable identificar correctamente el problema; muchas veces se intenta actuar de inmediato sin analizar la situación, lo que lleva a resolver solo lo que se ve en la superficie y no lo que realmente está ocurriendo.
+        p Antes de buscar una solución, es indispensable #[b identificar correctamente el problema]; muchas veces se intenta actuar de inmediato sin analizar la situación, lo que lleva a resolver solo lo que se ve en la superficie y no lo que realmente está ocurriendo.
         .cajon.color-secundario.bg3.p-4
-          p.mb-0 Identificar un problema significa reconocer que existe, aceptarlo y comprenderlo.
+          p.mb-0 Identificar un problema significa #[b reconocer que existe], aceptarlo y comprenderlo.
 
     p Esto implica diferenciar entre:
 

@@ -7,7 +7,7 @@
         span 5
       h1 Clima organizacional
 
-    p Está estrechamente vinculado con la satisfacción laboral, la cual depende, en gran medida, de la adecuada gestión de los conflictos personales y laborales. Cuando estos conflictos se abordan de manera oportuna y efectiva, se favorece un ambiente de trabajo saludable que impacta positivamente en el bienestar de los colaboradores. 
+    p Está estrechamente vinculado con la #[b satisfacción laboral], la cual depende, en gran medida, de la adecuada gestión de los conflictos personales y laborales. Cuando estos conflictos se abordan de manera oportuna y efectiva, se favorece un ambiente de trabajo saludable que impacta positivamente en el bienestar de los colaboradores. 
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-4.mb-3.mb-lg-0
@@ -82,13 +82,13 @@
         .tarjeta.bg2.p-4.h-100
           img.mb-4(src='@/assets/curso/temas/t5/tarj2-2.png', alt='')
           h4.mb-1 TECLA
-          p El instrumento TECLA fue desarrollado por el colombiano John Sudarsky y se fundamenta en la teoría de la motivación propuesta por David McClelland y J. Atkinson, en la que se identifican las necesidades de afiliación, poder y logro. 
+          p El instrumento #[b TECLA] fue desarrollado por el colombiano John Sudarsky y se fundamenta en la teoría de la motivación propuesta por David McClelland y J. Atkinson, en la que se identifican las necesidades de afiliación, poder y logro. 
           p.mb-0 Asimismo, incorpora las dimensiones del clima organizacional definidas por Litwin y Stringer, tales como conformidad, responsabilidad, normas, recompensas, claridad organizacional, espíritu de grupo, seguridad y salario (Méndez, 2006).
       .col-lg-4.col-md-6
         .tarjeta.bg2.p-4.h-100
           img.mb-4(src='@/assets/curso/temas/t5/tarj2-3.png', alt='')
           h4.mb-1 IMCOC
-          p.mb-0 El IMCOC, creado en 1980 por estudiantes de la Universidad del Rosario, es un instrumento basado en el modelo de las relaciones humanas e integra aportes de diversos autores clásicos de la administración y la psicología organizacional. Sus resultados evidencian que el clima organizacional está determinado por factores externos, estructurales, organizacionales e interpersonales, y que este influye de manera directa en el desempeño y la productividad de la organización (Méndez, 2006).
+          p.mb-0 El #[b IMCOC], creado en 1980 por estudiantes de la Universidad del Rosario, es un instrumento basado en el modelo de las relaciones humanas e integra aportes de diversos autores clásicos de la administración y la psicología organizacional. Sus resultados evidencian que el clima organizacional está determinado por factores externos, estructurales, organizacionales e interpersonales, y que este influye de manera directa en el desempeño y la productividad de la organización (Méndez, 2006).
 
 
 
