@@ -82,15 +82,15 @@
               th Recomendaciones para su manejo
           tbody
             tr
-              td.fw-bold Frustración
-              td Surge cuando una persona no logra alcanzar una meta, satisfacer una necesidad o cumplir una expectativa importante, generando malestar emocional y afectando el desempeño laboral.
-              td Obstinación, evitación, agresividad, abandono de tareas, bajo rendimiento y deterioro del clima laboral.
-              td Replantear expectativas y metas, adaptarse a situaciones fuera de control, mantener la calma, expresar sentimientos de forma asertiva y promover el diálogo. En roles directivos, identificar a tiempo y reorientar funciones si es necesario.
+              td.h4.fw-bold Frustración
+              td.text-start Surge cuando una persona no logra alcanzar una meta, satisfacer una necesidad o cumplir una expectativa importante, generando malestar emocional y afectando el desempeño laboral.
+              td.text-start Obstinación, evitación, agresividad, abandono de tareas, bajo rendimiento y deterioro del clima laboral.
+              td.text-start Replantear expectativas y metas, adaptarse a situaciones fuera de control, mantener la calma, expresar sentimientos de forma asertiva y promover el diálogo. En roles directivos, identificar a tiempo y reorientar funciones si es necesario.
             tr
-              td.fw-bold Estrés
-              td Se presenta como una respuesta ante exigencias laborales percibidas como excesivas o amenazantes, como sobrecarga de trabajo, presión por resultados o mala organización.
-              td Malas relaciones laborales, desgaste emocional, disminución de la productividad y afectación del bienestar personal.
-              td Identificar los agentes estresantes, mejorar la organización del trabajo, gestionar el tiempo y fortalecer estrategias de autocuidado y equilibrio emocional.
+              td.h4.fw-bold Estrés
+              td.text-start Se presenta como una respuesta ante exigencias laborales percibidas como excesivas o amenazantes, como sobrecarga de trabajo, presión por resultados o mala organización.
+              td.text-start Malas relaciones laborales, desgaste emocional, disminución de la productividad y afectación del bienestar personal.
+              td.text-start Identificar los agentes estresantes, mejorar la organización del trabajo, gestionar el tiempo y fortalecer estrategias de autocuidado y equilibrio emocional.
 
 
 

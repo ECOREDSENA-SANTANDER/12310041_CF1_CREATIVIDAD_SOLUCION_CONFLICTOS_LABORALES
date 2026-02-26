@@ -56,19 +56,19 @@
                 th Explicación por aspecto
             tbody
               tr
-                td.fw-bold ¿Cuándo se utiliza?
+                td.h4.fw-bold ¿Cuándo se utiliza?
                 td Cuando el conflicto tiene un origen personal y está relacionado con comportamientos, actitudes o relaciones entre personas.
               tr
-                td.fw-bold ¿En qué consiste?
+                td.h4.fw-bold ¿En qué consiste?
                 td En establecer un diálogo directo y estructurado con las personas involucradas para comprender la situación desde su punto de vista.
               tr
-                td.fw-bold ¿Cómo se aplica?
+                td.h4.fw-bold ¿Cómo se aplica?
                 td Primero se realizan entrevistas individuales y, si es necesario, luego una conversación conjunta para buscar acuerdos.
               tr
-                td.fw-bold ¿Qué es una entrevista?
+                td.h4.fw-bold ¿Qué es una entrevista?
                 td Es un intercambio intencionado de ideas, orientado a comprender un problema específico y no una conversación informal.
               tr
-                td.fw-bold Características principales
+                td.h4.fw-bold Características principales
                 td 
                   ul.lista-ul--color.fa-lista
                     li
@@ -90,7 +90,7 @@
                       i.fas.fa-puzzle-piece
                       span.mb-0 Su contenido se registra.
               tr
-                td.fw-bold Propósito principal
+                td.h4.fw-bold Propósito principal
                 td Identificar las causas reales del conflicto, generar confianza y facilitar la búsqueda de soluciones.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -114,22 +114,22 @@
                 th Explicación por aspecto
             tbody
               tr
-                td Preparación
+                td.h4 Preparación
                 td Definir previamente el objetivo, lugar, fecha y hora de la entrevista.
               tr
-                td Rol del entrevistador
+                td.h4 Rol del entrevistador
                 td Escuchar activamente, con actitud honesta, abierta y sin prejuicios.
               tr
-                td Participación
+                td.h4 Participación
                 td Garantizar que todas las personas puedan expresarse sin interrupciones.
               tr
-                td Actitud
+                td.h4 Actitud
                 td Evitar críticas, regaños o descalificaciones; fomentar un ambiente de confianza.
               tr
-                td Apoyo
+                td.h4 Apoyo
                 td Contar, si es posible, con un testigo que ayude a escuchar y mediar.
               tr
-                td Cierre
+                td.h4 Cierre
                 td Identificar soluciones y acordar un plan de acción conjunto.
 
     .row.justify-content-center.align-items-center.mb-4
@@ -151,19 +151,19 @@
                 th Explicación por aspecto
             tbody
               tr
-                td ¿Cuándo se utiliza?
+                td.h4 ¿Cuándo se utiliza?
                 td Cuando los problemas son de tipo laboral u organizacional y afectan a un grupo de trabajo.
               tr
-                td ¿En qué consiste?
+                td.h4 ¿En qué consiste?
                 td En reunir a los integrantes del equipo para analizar la situación, compartir información y proponer soluciones.
               tr
-                td ¿Para qué sirve?
+                td.h4 ¿Para qué sirve?
                 td Para informar, diagnosticar problemas, generar ideas, resolver conflictos y tomar decisiones colectivas.
               tr
-                td Beneficios
+                td.h4 Beneficios
                 td Reduce rumores, mejora la comunicación, fortalece el trabajo en equipo y permite detectar problemas a tiempo.
               tr
-                td Requisito clave
+                td.h4 Requisito clave
                 td Debe ser bien planificada y moderada para que sea productiva.
 
     .row.justify-content-center.mb-5(data-aos="fade")
@@ -179,34 +179,34 @@
                 th Explicación por aspecto
             tbody
               tr
-                td Planeación
+                td.h4 Planeación
                 td Definir objetivos, duración, lugar, fecha, asistentes y recursos necesarios.
               tr
-                td Agenda
+                td.h4 Agenda
                 td Establecer los temas a tratar y responsables de cada punto.
               tr
-                td Reglas
+                td.h4 Reglas
                 td Comunicar claramente cómo se debe participar y respetar los turnos de palabra.
               tr
-                td Duración
+                td.h4 Duración
                 td Evitar reuniones largas; solo extenderlas si son productivas.
               tr
-                td Puntualidad
+                td.h4 Puntualidad
                 td Iniciar y finalizar en el tiempo acordado.
               tr
-                td Moderación
+                td.h4 Moderación
                 td Designar una persona que dirija la reunión según la agenda.
               tr
-                td Registro
+                td.h4 Registro
                 td Escuchar y anotar ideas, propuestas y acuerdos.
               tr
-                td Cierre
+                td.h4 Cierre
                 td Retroalimentar, resumir y concluir la reunión.
               tr
-                td Seguimiento
+                td.h4 Seguimiento
                 td Definir acciones, responsables y fechas de cumplimiento.
               tr
-                td Participación
+                td.h4 Participación
                 td Colaborar activamente, aun cuando no se sea el organizador.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -229,16 +229,16 @@
                 th Explicación por aspecto
             tbody
               tr
-                td ¿Qué es?
+                td.h4 ¿Qué es?
                 td Una técnica que permite recoger información de varias personas sobre un tema específico.
               tr
-                td ¿Para qué sirve?
+                td.h4 ¿Para qué sirve?
                 td Para identificar problemas, opiniones y percepciones de forma objetiva y organizada.
               tr
-                td Instrumentos
+                td.h4 Instrumentos
                 td Cuestionario y cédula de entrevista.
               tr
-                td Cuando se recomienda
+                td.h4 Cuando se recomienda
                 td Cuando se requiere conocer la opinión general y no solo casos individuales.
 
     .row.justify-content-center.align-items-end.mb-5
@@ -254,28 +254,28 @@
                 th Explicación
             tbody
               tr
-                td Definición del estudio
+                td.h4 Definición del estudio
                 td Establecer objetivos, fines e hipótesis.
               tr
-                td Variables
+                td.h4 Variables
                 td Determinar qué aspectos se van a medir.
               tr
-                td Diseño
+                td.h4 Diseño
                 td Elaborar el cuestionario.
               tr
-                td Validación
+                td.h4 Validación
                 td Probar el instrumento para asegurar claridad y confiabilidad.
               tr
-                td Muestra
+                td.h4 Muestra
                 td Seleccionar a las personas que participarán.
               tr
-                td Aplicación
+                td.h4 Aplicación
                 td Realizar la encuesta.
               tr
-                td Análisis
+                td.h4 Análisis
                 td Procesar y analizar los datos recolectados.
               tr
-                td Informe
+                td.h4 Informe
                 td Presentar los resultados obtenidos.
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t6/9.png', alt='')
@@ -288,7 +288,7 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-4.mb-3.mb-lg-0
-        p Dadas las diversas aproximaciones conceptuales al clima organizacional, este se ha clasificado en los siguientes tipos:
+        img.mb-4.w-75x(src='@/assets/curso/temas/t6/12.svg', alt='')
         ul.lista-ul--color.fa-lista
           li
             i.fas.fa-puzzle-piece
@@ -338,25 +338,25 @@
                 th Explicación por aspecto
             tbody
               tr
-                td Enfoque
+                td.h4 Enfoque
                 td Las preguntas deben responder a los objetivos del estudio.
               tr
-                td Neutralidad
+                td.h4 Neutralidad
                 td Evitar preguntas que influyan en la respuesta.
               tr
-                td Organización
+                td.h4 Organización
                 td Agrupar preguntas por temas y dificultad progresiva.
               tr
-                td Extensión
+                td.h4 Extensión
                 td No hacer cuestionarios demasiado largos.
               tr
-                td Lenguaje
+                td.h4 Lenguaje
                 td Usar palabras claras y sencillas, sin tecnicismos.
               tr
-                td Anonimato
+                td.h4 Anonimato
                 td Recomendarlo cuando el tema sea sensible.
               tr
-                td Tipo de preguntas
+                td.h4 Tipo de preguntas
                 td Priorizar preguntas cerradas (70 %) sobre abiertas (30 %).  
 
 </template>

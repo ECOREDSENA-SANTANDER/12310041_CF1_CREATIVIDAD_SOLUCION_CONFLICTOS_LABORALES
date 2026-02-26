@@ -73,30 +73,30 @@
               th Ejemplo sencillo
           tbody
             tr
-              td.fw-bold Cuadro comparativo
-              td Es una tabla que permite comparar dos o más problemas usando los mismos criterios.
-              td Ayuda a decidir cuál problema es más importante o urgente de atender.
-              td Comparar la falta de puntualidad y la baja comunicación en un equipo de trabajo para definir cuál afecta más el desempeño.
+              td.h4.fw-bold Cuadro comparativo
+              td.text-start Es una tabla que permite comparar dos o más problemas usando los mismos criterios.
+              td.text-start Ayuda a decidir cuál problema es más importante o urgente de atender.
+              td.text-start Comparar la falta de puntualidad y la baja comunicación en un equipo de trabajo para definir cuál afecta más el desempeño.
             tr
-              td.fw-bold Ocho interrogantes básicos
-              td Consiste en hacer preguntas clave como qué, por qué, cómo, cuándo y quién.
-              td Permite comprender el problema de manera completa antes de buscar soluciones.
-              td Analizar un conflicto laboral preguntando qué ocurre, por qué sucede y a quién afecta.
+              td.h4.fw-bold Ocho interrogantes básicos
+              td.text-start Consiste en hacer preguntas clave como qué, por qué, cómo, cuándo y quién.
+              td.text-start Permite comprender el problema de manera completa antes de buscar soluciones.
+              td.text-start Analizar un conflicto laboral preguntando qué ocurre, por qué sucede y a quién afecta.
             tr
-              td.fw-bold Diagrama causa -- efecto
-              td Organiza las causas de un problema en diferentes grupos (personas, métodos, entorno, etc.).
-              td Ayuda a identificar las causas reales del problema y no solo sus consecuencias.
-              td Identificar las causas de retrasos en las tareas del área administrativa.
+              td.h4.fw-bold Diagrama causa - efecto
+              td.text-start Organiza las causas de un problema en diferentes grupos (personas, métodos, entorno, etc.).
+              td.text-start Ayuda a identificar las causas reales del problema y no solo sus consecuencias.
+              td.text-start Identificar las causas de retrasos en las tareas del área administrativa.
             tr
-              td.fw-bold Diagrama de afinidad (método KJ)
-              td Agrupa problemas o ideas similares en categorías comunes.
-              td Facilita ordenar mucha información y encontrar temas principales.
-              td Reunir quejas de empleados y agruparlas por clima laboral, comunicación o liderazgo.
+              td.h4.fw-bold Diagrama de afinidad (método KJ)
+              td.text-start Agrupa problemas o ideas similares en categorías comunes.
+              td.text-start Facilita ordenar mucha información y encontrar temas principales.
+              td.text-start Reunir quejas de empleados y agruparlas por clima laboral, comunicación o liderazgo.
             tr
-              td.fw-bold Diagrama de relaciones
-              td Expone cómo se conectan los problemas entre sí, indicando causas y efectos.
-              td Permite identificar qué factores influyen más y cuáles son consecuencias.
-              td Analizar cómo la sobrecarga de trabajo se relaciona con el estrés laboral y la disminución del rendimiento.
+              td.h4.fw-bold Diagrama de relaciones
+              td.text-start Expone cómo se conectan los problemas entre sí, indicando causas y efectos.
+              td.text-start Permite identificar qué factores influyen más y cuáles son consecuencias.
+              td.text-start Analizar cómo la sobrecarga de trabajo se relaciona con el estrés laboral y la disminución del rendimiento.
 
     .bloque-texto-g.bloque-texto-g--inverso.bg2.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade")
       .bloque-texto-g__img(

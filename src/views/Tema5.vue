@@ -35,20 +35,20 @@
       .col-lg.col-md-4.tarjeta.color-secundario.p-4.px-lg-5
         .row.justify-content-center.mb-4
           .col-lg-6.col-md-8.col-4
-            img(src='@/assets/curso/temas/t5/tarj1-1.svg', alt='')
+            img(src='@/assets/curso/temas/t5/tarj1-2.svg', alt='')
         h4.text-center Clima agregado
         p.mb-0 Hace referencia a las percepciones compartidas por los miembros de un grupo de trabajo, equipo o departamento.
       .col-lg.col-md-4.tarjeta.color-acento-contenido.p-4.px-lg-5
         .row.justify-content-center.mb-4
           .col-lg-6.col-md-8.col-4
-            img(src='@/assets/curso/temas/t5/tarj1-2.svg', alt='')
+            img(src='@/assets/curso/temas/t5/tarj1-3.svg', alt='')
         h4.text-center Clima colectivo
         p.mb-0 Se presenta cuando existe una percepción común sobre determinadas situaciones organizacionales, independientemente del área o dependencia a la que pertenezcan los individuos.
 
     .subt2.mb-4(data-aos="fade-right")
       h4.mb-0.px-3 Variables del clima organizacional
 
-    p.mb-4 Dada la relevancia de esta temática para la comprensión de las dinámicas laborales y su impacto en el bienestar y el desempeño de las personas, se ha dispuesto un podcast como recurso complementario de aprendizaje. Este material permite profundizar en los conceptos abordados, favorecer la reflexión y relacionar la temática con situaciones propias del contexto organizacional. Se invita al aprendiz a consultar este recurso como apoyo a su proceso formativo.
+    p.mb-4 Dada la relevancia de esta temática para la comprensión de las dinámicas laborales y su impacto en el bienestar y el desempeño de las personas, se ha dispuesto un pódcast como recurso complementario de aprendizaje. Este material permite profundizar en los conceptos abordados, favorecer la reflexión y relacionar la temática con situaciones propias del contexto organizacional. Se invita al aprendiz a consultar este recurso como apoyo a su proceso formativo.
 
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-10
@@ -56,8 +56,8 @@
         .bg3.p-4
           .bg-white.p-3
             TarjetaAudio.color-primario(
-              texto="Podcast: Hablemos de las variables del clima organizacional"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="Pódcast: Hablemos de las variables del clima organizacional"
+              :audio="require('@/assets/componentes/audios/Podcast-Pensamiento-creativo-resolucion-conflictos-laborales.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

@@ -269,27 +269,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Bertoldo, G., & Tagliavini, A. R. (2023). *Nuevas herramientas para el diálogo, negociación colectiva y resolución de conflictos en el ámbito de las relaciones laborales*. Relaciones Laborales y Derecho del Empleo.',
+        'Bertoldo, G., & Tagliavini, A. R. (2023). Nuevas herramientas para el diálogo, negociación colectiva y resolución de conflictos en el ámbito de las relaciones laborales. Relaciones Laborales y Derecho del Empleo.',
       link: '',
     },
     {
       referencia:
-        'Cely-Fuentes, D. Z. (2021). *Teoría de resolución de conflictos de Johan Galtung para la implementación de la Cátedra de la Paz*. Revista Docentes 2.0.',
+        'Cely-Fuentes, D. Z. (2021). Teoría de resolución de conflictos de Johan Galtung para la implementación de la Cátedra de la Paz. Revista Docentes 2.0.',
       link: '',
     },
     {
       referencia:
-        'Guilera, L. (2020). *Anatomía de la creatividad*. Marge Books.',
+        'Guilera, L. (2020). Anatomía de la creatividad. Marge Books.',
       link: '',
     },
     {
       referencia:
-        'Redorta, J. (2020). *Manual de gestión y resolución de conflictos: Principios, consejos y herramientas para mediadores y negociadores*. Editorial Almuzara.',
+        'Redorta, J. (2020). Manual de gestión y resolución de conflictos: Principios, consejos y herramientas para mediadores y negociadores. Editorial Almuzara.',
       link: '',
     },
     {
       referencia:
-        'Rodríguez, M. D. P. (2023). *Resolución de conflictos en la empresa*. ICB Editores.',
+        'Rodríguez, M. D. P. (2023). Resolución de conflictos en la empresa. ICB Editores.',
       link: '',
     },
   ],
@@ -339,7 +339,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Johann Sebastián Teran Carvajal',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -349,13 +349,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

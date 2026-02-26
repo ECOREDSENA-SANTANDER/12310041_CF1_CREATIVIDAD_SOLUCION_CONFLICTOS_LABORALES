@@ -15,52 +15,52 @@
           .col-6.col-md-8.col-lg-5
             img(src='@/assets/curso/temas/t4/tarj1-1.svg', alt='')
         h4.text-center Reconocimiento de los límites personales
-        p.text-center Reconocer que todas las personas tienen un límite físico, emocional y mental es fundamental. Identificar oportunamente ese límite y no sobrepasarlo contribuye directamente a la preservación de la salud, el bienestar y la calidad de vida, tanto en el ámbito personal como laboral. Melgosa (2006, p. 22).
+        p Reconocer que todas las personas tienen un límite físico, emocional y mental es fundamental. Identificar oportunamente ese límite y no sobrepasarlo contribuye directamente a la preservación de la salud, el bienestar y la calidad de vida, tanto en el ámbito personal como laboral (Melgosa, 2006, p. 22).
       .tarjeta.bg-img2.p-4
         .row.justify-content-center.mb-3
           .col-6.col-md-8.col-lg-5
             img(src='@/assets/curso/temas/t4/tarj1-2.svg', alt='')
         h4.text-center Formas de percibir los factores estresantes
-        p.text-center Los factores estresantes no afectan de igual manera a todas las personas; estos pueden ser evaluados de tres formas: como una amenaza, como un daño irreparable o como un reto. La forma en que se percibe la situación influye directamente en la respuesta emocional y conductual frente al estrés.
+        p Los factores estresantes no afectan de igual manera a todas las personas; estos pueden ser evaluados de tres formas: como una amenaza, como un daño irreparable o como un reto. La forma en que se percibe la situación influye directamente en la respuesta emocional y conductual frente al estrés.
       .tarjeta.bg-img2.p-4
         .row.justify-content-center.mb-3
           .col-6.col-md-8.col-lg-5
             img(src='@/assets/curso/temas/t4/tarj1-3.svg', alt='')
         h4.text-center El estrés no siempre es negativo
-        p.text-center El estrés, cuando se presenta en niveles moderados, puede convertirse en un factor motivador que impulse el rendimiento, la creatividad y la productividad. El problema surge cuando se vuelve intenso o prolongado.
+        p El estrés, cuando se presenta en niveles moderados, puede convertirse en un factor motivador que impulse el rendimiento, la creatividad y la productividad. El problema surge cuando se vuelve intenso o prolongado.
       .tarjeta.bg-img2.p-4
         .row.justify-content-center.mb-3
           .col-6.col-md-8.col-lg-5
             img(src='@/assets/curso/temas/t4/tarj1-4.svg', alt='')
         h4.text-center Gestión del tiempo
-        p.text-center Una adecuada planificación del tiempo permite reducir la presión innecesaria. Evitar dejar las actividades para última hora ayuda a disminuir la ansiedad y favorece un mejor desempeño.
+        p Una adecuada planificación del tiempo permite reducir la presión innecesaria. Evitar dejar las actividades para última hora ayuda a disminuir la ansiedad y favorece un mejor desempeño.
       .tarjeta.bg-img2.p-4
         .row.justify-content-center.mb-3
           .col-6.col-md-8.col-lg-5
             img(src='@/assets/curso/temas/t4/tarj1-5.svg', alt='')
         h4.text-center Comunicación asertiva
-        p.text-center Es importante mantener una comunicación clara y respetuosa con los superiores, especialmente en lo relacionado con la asignación y delegación de tareas, con el fin de evitar sobrecargas laborales.
+        p Es importante mantener una comunicación clara y respetuosa con los superiores, especialmente en lo relacionado con la asignación y delegación de tareas, con el fin de evitar sobrecargas laborales.
       .tarjeta.bg-img2.p-4
         .row.justify-content-center.mb-3
           .col-6.col-md-8.col-lg-5
             img(src='@/assets/curso/temas/t4/tarj1-6.svg', alt='')
         h4.text-center Responsabilidad directiva
-        p.text-center En el caso de quienes ocupan cargos directivos, es fundamental organizar el trabajo de manera equitativa, delegar funciones de forma adecuada y evitar concentrar excesivas cargas laborales en una sola persona.
+        p En el caso de quienes ocupan cargos directivos, es fundamental organizar el trabajo de manera equitativa, delegar funciones de forma adecuada y evitar concentrar excesivas cargas laborales en una sola persona.
 
 
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.1 Síndrome de desgaste personal o #[em Burnout]
+      h2 4.1 Síndrome de desgaste personal o #[em burnout]
 
-    p El término #[em Burnout] se atribuye al doctor H. Freudenberger y se define como un “síndrome de agotamiento físico y mental intenso, resultado de un estrés laboral crónico o de una frustración prolongada” (Rojo y Cervera, 2005, p. 43). 
+    p El término #[em burnout] se atribuye al doctor H. Freudenberger y se define como un “síndrome de agotamiento físico y mental intenso, resultado de un estrés laboral crónico o de una frustración prolongada” (Rojo y Cervera, 2005, p. 43). 
 
     .row.justify-content-center.align-items-center
       .col-lg-4.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 1.
-          span Síndrome de #[em Burnout]
+          span Síndrome de #[em burnout]
         figure
-          img(src='@/assets/curso/temas/t4/fig1.svg', alt='Representa a una persona agotada en su espacio de trabajo, con signos claros de cansancio físico y emocional. Alrededor se integran elementos que simbolizan estrés. Reflejando el impacto integral del síndrome de desgaste personal en la vida laboral y personal.')
+          img(src='@/assets/curso/temas/t4/fig1.png', alt='Representa a una persona agotada en su espacio de trabajo, con signos claros de cansancio físico y emocional. Alrededor se integran elementos que simbolizan estrés. Reflejando el impacto integral del síndrome de desgaste personal en la vida laboral y personal.')
       .col-lg-8(data-aos="fade-left")
         p Este síndrome no suele originarse por un ataque intencional, sino principalmente por deficiencias en la organización del trabajo, la persona afectada experimenta agotamiento profesional, sensación de sobrecarga y pérdida de energía; si estas condiciones persisten, pueden aparecer síntomas como irritabilidad, depresión e incluso el abandono del trabajo.
         .bg4.p-4
