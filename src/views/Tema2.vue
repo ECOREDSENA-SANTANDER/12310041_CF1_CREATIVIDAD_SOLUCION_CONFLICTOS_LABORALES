@@ -90,21 +90,20 @@
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/4.png', alt='')  
 
-    p.mb-4 Estas técnicas facilitan el análisis creativo de los conflictos y fortalecen la capacidad de proponer soluciones alineadas con los objetivos organizacionales.
+    p Estas técnicas facilitan el análisis creativo de los conflictos y fortalecen la capacidad de proponer soluciones alineadas con los objetivos organizacionales.
+    p Para complementar la información lo invitamos a visitar el siguiente video.
 
-    .tarjeta.color-primario.bg-img1.p-3.py-md-4(data-aos="fade")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/t2/cta.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h4.mb-2 Video - Capacidad creativa: preguntas
-              p.mb-0 Para complementar la información lo invitamos a visitar el siguiente enlace.
-            .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=gp-1O_UBuBk')" target="_blank")
-                span Abrir video
-                i.fas.fa-file-video
+    .row.bgc-1.align-items-center.p-2.p-md-3.pb-5(data-aos="fade-down")
+      .col-lg-12.col-12.px-lg-4
+        .row.justify-content-center.align-items-center
+         
+          .row.justify-content-center
+            .col-12
+              figure
+                .video
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/fx0opRswqa8?si=Sb3tHP-FQgyPc11q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              figcaption Video. Preguntas de Reflexión
+
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')

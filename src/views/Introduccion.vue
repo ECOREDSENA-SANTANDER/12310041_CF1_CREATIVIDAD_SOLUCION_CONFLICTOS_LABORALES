@@ -17,14 +17,15 @@
 
     p Para dar cumplimiento a este propósito, se han diseñado actividades orientadas a estimular la creatividad, el análisis crítico y la reflexión, que permiten al aprendiz reconocer situaciones problemáticas del entorno laboral y construir alternativas de solución coherentes con los objetivos de la organización y el nivel de responsabilidad asociado a sus funciones.
 
-    p De este modo, el componente fortalece no solo la capacidad de comprender el conflicto desde una perspectiva integral, sino también la toma de decisiones fundamentadas, el diálogo asertivo y la gestión responsable de las relaciones interpersonales. Esto contribuye a la consolidación de ambientes de trabajo sanos, productivos y respetuosos, donde el conflicto se asume como un elemento transformador que impulsa el aprendizaje.
+    p.mb-4 De este modo, el componente fortalece no solo la capacidad de comprender el conflicto desde una perspectiva integral, sino también la toma de decisiones fundamentadas, el diálogo asertivo y la gestión responsable de las relaciones interpersonales. Esto contribuye a la consolidación de ambientes de trabajo sanos, productivos y respetuosos, donde el conflicto se asume como un elemento transformador que impulsa el aprendizaje.
 
     .row.justify-content-center.align-items-center           
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/UkOUZkfvIyw?si=9tuFer4pfYakTy_5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Pensamiento creativo y resolución de conflictos laborales
+
 
 </template>
 
