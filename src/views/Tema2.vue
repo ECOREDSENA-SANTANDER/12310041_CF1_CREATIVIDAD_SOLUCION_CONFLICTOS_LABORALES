@@ -102,7 +102,7 @@
               figure
                 .video
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/fx0opRswqa8?si=Sb3tHP-FQgyPc11q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-              figcaption Video. Preguntas de Reflexión
+              figcaption Video. Preguntas de reflexión
 
 
     Separador
