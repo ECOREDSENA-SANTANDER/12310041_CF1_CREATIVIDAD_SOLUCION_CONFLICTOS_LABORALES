@@ -211,7 +211,7 @@ export default {
         'barreras mentales, emocionales u organizacionales que limitan la generación de ideas innovadoras.',
     },
     {
-      termino: 'Burnout',
+      termino: '<em>Burnout</em>',
       significado:
         'síndrome de agotamiento físico y mental causado por estrés laboral crónico y prolongado.',
     },
@@ -354,7 +354,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
