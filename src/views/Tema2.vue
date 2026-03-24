@@ -16,13 +16,13 @@
         .row.justify-content-center.mb-4
           .col-lg-4.col-md-6.mb-3.mb-lg-0
             .tag-shape.tag-shape_1-1.h-100.p-4
-              p.text-center.mb-0 La percepción de los problemas
+              p.text-center.mb-0 La percepción de los problemas.
           .col-lg-4.col-md-6.mb-3.mb-lg-0.px-lg-0
             .tag-shape.tag-shape_1-2.h-100.p-4
-              p.text-center.mb-0 La toma de decisiones
+              p.text-center.mb-0 La toma de decisiones.
           .col-lg-4.col-md-6.mb-3.mb-lg-0
             .tag-shape2.tag-shape2_1-3.h-100.p-4
-              p.text-center.mb-0 La disposición al cambio
+              p.text-center.mb-0 La disposición al cambio.
         p Estos no solo dependen de la persona, sino también de la cultura organizacional y de las dinámicas sociales en las que participa.
 
     .mb-5(data-aos="fade")
@@ -80,7 +80,7 @@
               p.mb-0 Permiten organizar ideas de forma visual y asociativa.
           .row(titulo="SCAMPER")
             .col-md-11
-              p.mb-0 Técnica basada en preguntas que invitan a modificar, adaptar o reinventar productos, servicios o procesos.
+              p.mb-0 Técnica basada en preguntas que invitan a modificar, adaptar o reinventar productos, servicios o procesos.  (Sustituir, Combinar, Adaptar Modificar, Poner en otros usos, Eliminar y Reorganizar).
           .row(titulo="<em>Brainstorming</em> y <em>brainwriting</em>")
             .col-md-11
               p.mb-0 Métodos grupales para la generación de ideas sin juicios previos.
@@ -91,7 +91,7 @@
         img(src='@/assets/curso/temas/t2/4.png', alt='')  
 
     p Estas técnicas facilitan el análisis creativo de los conflictos y fortalecen la capacidad de proponer soluciones alineadas con los objetivos organizacionales.
-    p Para complementar la información lo invitamos a visitar el siguiente video.
+    p Para complementar la información, lo invitamos a visitar el siguiente video.
 
     .row.bgc-1.align-items-center.p-2.p-md-3.pb-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4

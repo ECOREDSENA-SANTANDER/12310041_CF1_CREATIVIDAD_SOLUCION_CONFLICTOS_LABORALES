@@ -16,7 +16,7 @@
         .cajon.color-secundario.bg3.p-4.mb-4
           p.mb-0.fw-bold La buena noticia es que todo problema tiene una solución o, al menos, una forma diferente y más constructiva de analizarlo.
         p Aunque algunos problemas resultan más complejos que otros, todos dejan aprendizajes importantes. En muchos casos, incluso pueden convertirse en oportunidades de mejora, crecimiento personal y fortalecimiento de las relaciones laborales.
-        p En esta etapa el objetivo es que el aprendiz logre identificar los problemas en el trabajo, reconocer sus causas y consecuencias, y aprenda a definirlos adecuadamente, teniendo en cuenta el contexto de la organización, como paso fundamental para encontrar soluciones creativas y efectivas.
+        p En esta etapa, el objetivo es que el aprendiz logre identificar los problemas en el trabajo, reconocer sus causas y consecuencias, y aprenda a definirlos adecuadamente, teniendo en cuenta el contexto de la organización, como paso fundamental para encontrar soluciones creativas y efectivas.
 
 
     Separador

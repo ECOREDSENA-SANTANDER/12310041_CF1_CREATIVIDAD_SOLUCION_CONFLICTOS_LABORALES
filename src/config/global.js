@@ -269,28 +269,23 @@ export default {
   referencias: [
     {
       referencia:
-        'Bertoldo, G., & Tagliavini, A. R. (2023). Nuevas herramientas para el diálogo, negociación colectiva y resolución de conflictos en el ámbito de las relaciones laborales. Relaciones Laborales y Derecho del Empleo.',
-      link: '',
+        'Bertoldo, G., & Tagliavini, A. R. (2023). Nuevas herramientas para el diálogo, negociación colectiva y resolución de conflictos en el ámbito de las relaciones laborales. Relaciones Laborales y Derecho del Empleo. ',
     },
     {
       referencia:
-        'Cely-Fuentes, D. Z. (2021). Teoría de resolución de conflictos de Johan Galtung para la implementación de la Cátedra de la Paz. Revista Docentes 2.0.',
-      link: '',
+        'Cely-Fuentes, D. Z. (2021). Teoría de resolución de conflictos de Johan Galtung para la implementación de la Cátedra de la Paz. Revista Docentes 2.0. ',
     },
     {
       referencia:
-        'Guilera, L. (2020). Anatomía de la creatividad. Marge Books.',
-      link: '',
+        'Guilera, L. (2020). Anatomía de la creatividad. Marge Books. ',
     },
     {
       referencia:
-        'Redorta, J. (2020). Manual de gestión y resolución de conflictos: Principios, consejos y herramientas para mediadores y negociadores. Editorial Almuzara.',
-      link: '',
+        'Redorta, J. (2020). Manual de gestión y resolución de conflictos: Principios, consejos y herramientas para mediadores y negociadores. Editorial Almuzara. ',
     },
     {
       referencia:
-        'Rodríguez, M. D. P. (2023). Resolución de conflictos en la empresa. ICB Editores.',
-      link: '',
+        'Rodríguez, M. D. P. (2023). Resolución de conflictos en la empresa. ICB Editores. ',
     },
   ],
   creditos: [
