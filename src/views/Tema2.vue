@@ -80,7 +80,7 @@
               p.mb-0 Permiten organizar ideas de forma visual y asociativa.
           .row(titulo="SCAMPER")
             .col-md-11
-              p.mb-0 Técnica basada en preguntas que invitan a modificar, adaptar o reinventar productos, servicios o procesos.  (Sustituir, Combinar, Adaptar Modificar, Poner en otros usos, Eliminar y Reorganizar).
+              p.mb-0 Técnica basada en preguntas que invitan a modificar, adaptar o reinventar productos, servicios o procesos.  (Sustituir, Combinar, Adaptar, Modificar, Poner en otros usos, Eliminar y Reorganizar).
           .row(titulo="<em>Brainstorming</em> y <em>brainwriting</em>")
             .col-md-11
               p.mb-0 Métodos grupales para la generación de ideas sin juicios previos.
