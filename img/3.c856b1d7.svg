@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84" height="84" viewBox="0 0 84 84">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_454871" data-name="Rectángulo 454871" width="70" height="70" rx="5" transform="translate(186.668 5528)" fill="#604161"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="path4359" d="M0-70H70V0H0Z" fill="#604161"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1119681" data-name="Grupo 1119681" transform="translate(-179.668 -5521)">
+    <rect id="Rectángulo_402006" data-name="Rectángulo 402006" width="84" height="84" rx="5" transform="translate(179.668 5521)" fill="#f0a3f3"/>
+    <g id="Enmascarar_grupo_1119197" data-name="Enmascarar grupo 1119197" clip-path="url(#clip-path)">
+      <g id="g4353" transform="translate(186.668 5598)">
+        <g id="g4355">
+          <g id="g4357" clip-path="url(#clip-path-2)">
+            <g id="g4363" transform="translate(49.096 -34.405)">
+              <path id="path4365" d="M0,0A3.454,3.454,0,0,1-3.409,3.562,3.455,3.455,0,0,1-6.821,0,11.02,11.02,0,0,1,4.165-11.134,10.984,10.984,0,0,1,15.151-.151c0,3.674-.76,6.642-3.614,9.111a11.376,11.376,0,0,0-2.687,2.573C7.713,13.471,7.577,13.746,7.577,15.9a3.413,3.413,0,0,1-6.825,0c0-3.6.345-4.635,2.21-7.817,1.218-2.077,2.4-2.81,4.11-4.286C8.295,2.748,8.33,1.411,8.33-.151A4.162,4.162,0,0,0,4.165-4.313,4.2,4.2,0,0,0,0,0Z" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+            <g id="g4367" transform="translate(53.261 -1.367)">
+              <path id="path4369" d="M0,0A3.419,3.419,0,0,0,3.412-3.41,3.417,3.417,0,0,0,0-6.821,3.419,3.419,0,0,0-3.412-3.41,3.421,3.421,0,0,0,0,0Z" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+            <g id="g4371" transform="translate(17.232 -24.747)">
+              <path id="path4373" d="M0,0-13.615,13.606a4.676,4.676,0,0,0,0,6.6,4.679,4.679,0,0,0,6.6,0L6.6,6.6" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+            <g id="g4375" transform="translate(17.399 -11.726)">
+              <path id="path4377" d="M0,0-6.6-6.592M-10.393-2.8l6.6,6.6" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+            <g id="g4379" transform="translate(19.547 -33.099)">
+              <path id="path4381" d="M0,0-2.21,2.209a4.433,4.433,0,0,0,0,6.255l6.383,6.379a4.44,4.44,0,0,0,6.259,0l2.207-2.209" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+            <g id="g4383" transform="translate(29.598 -65.067)">
+              <path id="path4385" d="M0,0A25.2,25.2,0,0,1,33.838,35.715M20.258,45.733A25.2,25.2,0,0,1-8.667,8.634" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+            <g id="g4387" transform="translate(52.784 -27.414)">
+              <path id="path4389" d="M0,0A19.048,19.048,0,0,1-23.705-2.581a19.012,19.012,0,0,1,0-26.9,19.046,19.046,0,0,1,26.916,0,18.982,18.982,0,0,1,5.5,15.067" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+            <g id="g4391" transform="translate(24.708 -61.249)">
+              <path id="path4393" d="M0,0,0,0" fill="none" stroke="#604161" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.758"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
